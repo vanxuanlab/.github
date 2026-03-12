@@ -1,10 +1,10 @@
 # Vạn Xuân Lab
 
-> Nghiên cứu phần mềm hệ thống và trí tuệ nhân tạo — từ Việt Nam.
+> Nghiên cứu phần mềm hệ thống và trí tuệ nhân tạo từ Việt Nam.
 
 Vạn Xuân Lab tập trung vào các lĩnh vực sâu trong máy tính:
 ngôn ngữ lập trình, compiler, hệ điều hành, và AI.  
-Chúng tôi xây dựng những thứ chạy bên dưới — để mọi thứ bên trên hoạt động tốt hơn.
+Chúng tôi xây dựng những thứ chạy bên dưới, để mọi thứ bên trên hoạt động tốt hơn.
 
 ---
 
